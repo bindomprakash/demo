@@ -1,15 +1,8 @@
 .main{
     border: 1px solid red;
-    width: 100%;
+    width: 400px;
     height: 300px;
     padding-left: 10px;
     border-radius: 10px;
     /* margin-left: 400px; */
-}
- /* button{
-    background-color: red;
-} */
-
-.main button{
-    background-color: red;
 }
